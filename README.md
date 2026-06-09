@@ -32,10 +32,10 @@ Proyek ini dirancang untuk menangani pemrosesan dan analisis data berskala besar
 
 ## Struktur Direktori
 
+```text
 ├── config/          # File konfigurasi koneksi atau klaster
 ├── database/        # Skrip database, skema relasional, atau query pemrosesan
 ├── src/             # Source code utama aplikasi atau skrip MapReduce / Hive
 ├── docs/            # Dokumen laporan dan presentasi
 └── README.md        # Dokumentasi utama proyek
-
----
+```
